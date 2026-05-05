@@ -1,0 +1,12 @@
+{
+  "warrior": {
+    "id": "rte",
+    "name": "реальная треп ебатня",
+    "iconUrl": "https://raw.githubusercontent.com/ваш-username/ваш-репозиторий/main/icons/warrior.png"
+  },
+  "mage": {
+    "id": "test",
+    "name": "test",
+    "iconUrl": "https://raw.githubusercontent.com/ваш-username/ваш-репозиторий/main/icons/mage.png"
+  }
+}
