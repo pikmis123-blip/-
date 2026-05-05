@@ -2,11 +2,11 @@
   "rte": {
     "id": "rte",
     "name": "реальная треп ебатня",
-    "iconUrl": "https://raw.githubusercontent.com/ваш-username/ваш-репозиторий/main/icons/warrior.png"
+    "iconUrl": "https://raw.githubusercontent.com/pikmis-blip/-/main/rte.jpg"
   },
   "test": {
     "id": "test",
     "name": "test",
-    "iconUrl": "https://raw.githubusercontent.com/ваш-username/ваш-репозиторий/main/icons/mage.png"
+    "iconUrl": "https://raw.githubusercontent.com/ваш-username/ваш-репозиторий/main/test.png"
   }
 }
